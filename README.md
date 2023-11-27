@@ -1,0 +1,1 @@
+# owntone-websocket-config-sidecar
